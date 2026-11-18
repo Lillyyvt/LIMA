@@ -196,7 +196,7 @@ scroll-snap-align:center;  */
     margin-top: 3rem;
     padding: 5rem 4rem;
     background-color: #0c0d41;
-    color: var(--text-light);
+    color:#380303;
     border-radius: var(--radius-lg);
     overflow: hidden;
 }
